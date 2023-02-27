@@ -14,7 +14,8 @@ To ensure responsiveness, I used CSS media queries to apply different styles to 
 I tested the website's responsiveness using various tools and methods, such as resizing the browser window and testing on actual devices. If you encounter any issues with the website's responsiveness, please let us know by opening an issue or submitting a pull request.
 
 Overall, I believe that ensuring responsiveness is crucial in providing a positive user experience, and we strive to make sure that this website is accessible and functional on all devices.</p>
-
+ 
+ 
 <h2>Screenshots</h2>
 
 
